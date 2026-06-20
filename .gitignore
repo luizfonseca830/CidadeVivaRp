@@ -1,0 +1,30 @@
+# ===== Unreal Engine — pastas geradas (NÃO versionar) =====
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Arquivos de plataforma/IDE
+.vs/
+.vscode/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Binários compilados
+*.exe
+*.dll
+*.lib
+*.app
+*.ipa
+*.apk
+*.obb
+
+# ===== Manter pastas vazias importantes (opcional) =====
+!.gitkeep
